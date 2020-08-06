@@ -412,17 +412,17 @@
 				TargetAttributes = {
 					190605102189CA57005B78B2 = {
 						CreatedOnToolsVersion = 10.0;
-						DevelopmentTeam = GE9933KY56;
+						DevelopmentTeam = HV34QDD5C6;
 						ProvisioningStyle = Automatic;
 					};
 					2F3883971CF46C6E00F114A7 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = GE9933KY56;
+						DevelopmentTeam = HV34QDD5C6;
 						ProvisioningStyle = Automatic;
 					};
 					2F3883AF1CF46C9D00F114A7 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = GE9933KY56;
+						DevelopmentTeam = HV34QDD5C6;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.Sandbox = {
@@ -589,7 +589,7 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = GE9933KY56;
+				DEVELOPMENT_TEAM = HV34QDD5C6;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -625,7 +625,7 @@
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = GE9933KY56;
+				DEVELOPMENT_TEAM = HV34QDD5C6;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
